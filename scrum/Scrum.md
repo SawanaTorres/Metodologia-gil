@@ -16,7 +16,7 @@
   - **Scrum Master**: Coordena a equipe delegando papéis e acompanhando a execução das frentes de trabalho. Garanti que as regras, processos e cronograma sejam seguidos. 
   - **Dev Team**: Profissionais  da equipe envolvidos no projeto, executam o planejamento. 
 
-# Cerimônias Scrum
+  # Cerimônias Scrum
 
 - **Sprint Planning:** Cerimônia inicial do _scrum_ durante o ciclo do projeto(sprint), é normalmente conduzida pelo Scrum Master. Tem como objetivo contextualizar ao _scrum team_ sobre os entregáveis, atividades e funcionalidades existentes no backlog do produto, sempre olhando para "entrega de valor" para o cliente.
 
