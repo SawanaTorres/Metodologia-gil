@@ -1,2 +1,2 @@
-# Metodologia-gil
+# Metodologia-Ágil
 Scrum
