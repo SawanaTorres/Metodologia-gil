@@ -1,10 +1,10 @@
   # Scrum
 
-  O que é ?
+  - O que é ?
 
-- Quem Participa 
+  - Quem Participa 
 
-- Suas Cerimônias 
+  - Suas Cerimônias 
 
   # O que é 
 
