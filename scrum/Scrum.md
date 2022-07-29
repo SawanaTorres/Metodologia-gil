@@ -1,4 +1,4 @@
-  # Scrum
+  ## Scrum
 
 - O que é ?
 
