@@ -12,7 +12,7 @@
 
   # Quem Participa
 
-   **Product Owner : ** Dono do projeto, quem gerencia prazos demandas e metas, alinhando o trabalho do time com as necessidades do cliente e os objetivos da empresa.    
+   **Product Owner** : Dono do projeto, quem gerencia prazos demandas e metas, alinhando o trabalho do time com as necessidades do cliente e os objetivos da empresa.    
    **Scrum Master**: Coordena a equipe delegando papéis e acompanhando a execução das frentes de trabalho. Garanti que as regras, processos e cronograma sejam  seguidos. 
   - **Dev Team**: Profissionais  da equipe envolvidos no projeto, executam o planejamento. 
 
