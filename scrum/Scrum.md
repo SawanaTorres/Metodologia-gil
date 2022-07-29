@@ -8,12 +8,12 @@
 
   # O que é 
 
-  Um dos métodos ágeis mais difundidos atualmente, o _Scrum_, é um framework, criado para _gestão de projetos_ e organização de equipes. Exige que o PO (Product Owner) tenha uma ampla visão de seu time e que saiba exatamente quais os responsabilidades e papéis que cada um desempenhará durante o processo de formação e entrega do produto ou projeto. 
+  Um dos métodos ágeis mais difundidos atualmente, o _Scrum_, é um framework, criado para _gestão de projetos_ e organização de equipes. Exige que o PO (Product Owner)   tenha uma ampla visão de seu time e que saiba exatamente quais os responsabilidades e papéis que cada um desempenhará durante o processo de formação e entrega do       produto ou projeto. 
 
   # Quem Participa
 
    **Product Owner : ** Dono do projeto, quem gerencia prazos demandas e metas, alinhando o trabalho do time com as necessidades do cliente e os objetivos da empresa.    
-   **Scrum Master**: Coordena a equipe delegando papéis e acompanhando a execução das frentes de trabalho. Garanti que as regras, processos e cronograma sejam seguidos. 
+   **Scrum Master**: Coordena a equipe delegando papéis e acompanhando a execução das frentes de trabalho. Garanti que as regras, processos e cronograma sejam  seguidos. 
   - **Dev Team**: Profissionais  da equipe envolvidos no projeto, executam o planejamento. 
 
   # Cerimônias Scrum
