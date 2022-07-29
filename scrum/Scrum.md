@@ -6,7 +6,7 @@
 
 - Suas Cerimônias 
 
-  ## O que é 
+  # O que é 
 
   Um dos métodos ágeis mais difundidos atualmente, o _Scrum_, é um framework, criado para _gestão de projetos_ e organização de equipes. Exige que o PO (Product Owner) tenha uma ampla visão de seu time e que saiba exatamente quais os responsabilidades e papéis que cada um desempenhará durante o processo de formação e entrega do produto ou projeto. 
 
